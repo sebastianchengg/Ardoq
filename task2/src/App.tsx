@@ -1,11 +1,12 @@
-import React, { FunctionComponent } from 'react';
+import React, { FunctionComponent } from "react";
+import MapPage from "./pages/MapPage";
 
 const App: FunctionComponent = () => {
   return (
     <>
-    <h1>Hei</h1>
+      <MapPage />
     </>
   );
-}
+};
 
 export default App;
