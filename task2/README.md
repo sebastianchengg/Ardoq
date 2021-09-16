@@ -1,4 +1,4 @@
-# [Ardoq task 2](../README.md) > Frontend
+# Ardoq task 2
 
 This folder task 2 for Ardoq's interview task. Implemented using [React](https://reactjs.org/) and [TypeScript](https://www.typescriptlang.org/).
 
