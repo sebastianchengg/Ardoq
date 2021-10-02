@@ -4,7 +4,8 @@ import { StationStatus } from "../models/bicycle";
 import { GoogleMap, useJsApiLoader, InfoWindow } from "@react-google-maps/api";
 import "./MapComponent.css";
 
-const MAPS_API_KEY = "AIzaSyDDb_X4JA1smd-RCg-UhY-fSidxs6RuF4g";
+// Insert goodle maps api key here
+const MAPS_API_KEY = "maps key";
 
 // Sizing of the map
 const containerStyle = {
